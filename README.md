@@ -76,12 +76,13 @@ El desafío se aplicó sobre una **Página web de películas populares**, que si
 
 ## 📂 Estructura del proyecto
 
+```ascii
 desafio_git_gitHub_aluraLatam/
 ├── index.html         # página principal
 ├── style.css          # estilos
 ├── images/            # carpeta de imágenes
 └── README.md          # documentación del repo
-
+```
 ---
 
 ## 📖 Información adicional
