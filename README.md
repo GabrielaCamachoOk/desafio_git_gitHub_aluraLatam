@@ -75,7 +75,7 @@ El desafío se aplicó sobre una **Página web de películas populares**, que si
 ---
 
 ## 📂 Estructura del proyecto
-```ascii
+
 desafio_git_gitHub_aluraLatam/
 ├── index.html         # página principal
 ├── style.css          # estilos
@@ -87,4 +87,6 @@ desafio_git_gitHub_aluraLatam/
 ## 📖 Información adicional
 - Este repositorio forma parte del programa **Alura Latam – 7 Days Of Code**.  
 - Objetivo: dominar lo esencial de Git y GitHub en una semana.  
-- Autora: Gabriela Camacho.  
+- Autora: Gabriela Camacho. 
+
+---
